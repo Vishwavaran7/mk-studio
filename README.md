@@ -1,6 +1,6 @@
 # MK Studio — Wedding & Editorial Photography Portal
 
-[![MK Studio Live](https://img.shields.io/badge/MK%20Studio-Live-C5A880?style=for-the-badge&logo=githubpages&logoColor=white)](https://Vishwavaran7.github.io/portfolio/mK%20STUDIO/)
+[![MK Studio Live](https://img.shields.io/badge/MK%20Studio-Live-C5A880?style=for-the-badge&logo=githubpages&logoColor=white)](https://vishwavaran7.github.io/mk-studio/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-7c3aed?style=for-the-badge&logo=github)](https://github.com/Vishwavaran7/mk-studio)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3.4-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
